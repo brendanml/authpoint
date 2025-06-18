@@ -27,4 +27,4 @@ dist-ssr
 **/.env
 **/.env.*
 **/node_modules/
-
+**/TODO.md

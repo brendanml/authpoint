@@ -1,8 +1,8 @@
-# Authify
+# Authpoint
 
 - A minimal but safe authentication template for future projects.
 
-## steps
+## Setup Instructions
 
 1. Rename the project
 
@@ -27,6 +27,6 @@ mv ./back/.FIX.env ./back/.env
 
 - Update variables in the file
 
-## technologies
+## Technologies
 
-- typescript
+- typescript... &TODO
